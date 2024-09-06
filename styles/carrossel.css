@@ -78,5 +78,6 @@
 }
 
 .descrição__imagem{
+    display: flex;
     align-items: center;
 }
